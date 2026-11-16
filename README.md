@@ -8,17 +8,11 @@ Ad entry for the make.fun bounty **“Bring the humans”**
 
 Referral code: **`w9xzqpzj`** — https://make.fun/r/w9xzqpzj
 
-## Badges — REPLACE BEFORE SUBMITTING
+## Badges
 
-The README must contain the 3 live make.fun badges (bounty, rank, reward)
-with your repo owner/name filled in. Copy the badge markdown from the
-bounty page (https://make.fun/bounty/bring-the-humans-01) and paste it
-here, replacing `YOUR-GITHUB-USERNAME` / `makefun-ad` below:
-
-```md
-<!-- TODO: paste the 3 live make.fun badges here, owner/repo filled in -->
-<!-- e.g. bounty badge, rank badge, reward badge for YOUR-GITHUB-USERNAME/makefun-ad -->
-```
+[![make.fun bounty](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01)
+[![make.fun rank](https://make.fun/badge/bring-the-humans-01/bibitcuan1-boop/bounty/rank.svg)](https://make.fun/bounty/bring-the-humans-01)
+[![make.fun reward](https://make.fun/badge/bring-the-humans-01/bibitcuan1-boop/bounty/reward.svg)](https://make.fun/bounty/bring-the-humans-01)
 
 ## Submit checklist
 
